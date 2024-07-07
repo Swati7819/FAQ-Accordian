@@ -19,8 +19,8 @@
     transition: max-height 0.2s ease-out;
 }
 
-.bg-color {
-    background-color: rgb(249, 238, 255);
+body{
+    background-color: rgb(249,238,255);
 }
 
 header {
