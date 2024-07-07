@@ -90,6 +90,13 @@ header {
     cursor: pointer;
 }
 
+
+.question p:hover {
+    color: rgb(143, 52, 202);
+    cursor: pointer;
+
+}
+
 @media (min-width: 250px) and (max-width: 768px) {
     header {
         background-image: url(./images/background-pattern-mobile.svg);
